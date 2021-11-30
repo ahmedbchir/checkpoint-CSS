@@ -1,0 +1,59 @@
+
+  header{
+    float: left;
+    margin-top: 32px;
+  }
+nav {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 50px;
+
+}
+
+nav ul li  {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+body{
+    font-family: 'roboto';
+    background-color :rgb(133, 193, 214);
+}
+.image-1 {
+    margin-top:  150px ;
+    display: center;
+}
+.title{
+    color: blue;
+    text-decoration: underline;
+}
+
+.title1 {
+    color: red;
+   margin-left: 30px;
+}
+
+.title2 {
+    color: green;
+}
+
+p {
+    border-style: ridge; 
+    border-color: black;
+}
+
+footer{
+    background-color: darkgray;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+}
+
+footer ul li{
+    list-style: none;
+}
